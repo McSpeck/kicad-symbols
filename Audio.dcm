@@ -384,6 +384,18 @@ K PHILIPS BBD MOS monolithic delay analogue
 F http://thmq.mysteria.cz/em1022/TDA1022.pdf
 $ENDCMP
 #
+$CMP THAT1510
+D Low-Noise, Audio Preamplifier IC, 0.005% THD+N, -147.15dBu EIN, DIP-8, SOIC-8, SOIC-16, SOIC-14
+K amp mic preamp
+F http://www.thatcorp.com/datashts/THAT_1510-1512_Datasheet.pdf
+$ENDCMP
+#
+$CMP THAT1512
+D Low-Noise, Audio Preamplifier IC, 0.005% THD+N, -147.15dBu EIN, DIP-8, SOIC-8, SOIC-16, SOIC-14
+K amp mic preamp
+F http://www.thatcorp.com/datashts/THAT_1510-1512_Datasheet.pdf
+$ENDCMP
+#
 $CMP THAT1580
 D Low-Noise, Differential Audio Preamplifier IC, 0.005% THD+N, -134.8dBu EIN, QFN-16
 K diff amp mic preamp
